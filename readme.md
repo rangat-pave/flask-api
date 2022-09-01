@@ -11,5 +11,5 @@ export FLASK_ENV=development
 ## Start server
 
 ```bash
-flask run --port=8080
+flask --debug run --port=8080
 ```
